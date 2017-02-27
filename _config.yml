@@ -1,5 +1,4 @@
-theme: jekyll-theme-cayman
-
-name: Do You Need a Stent?
-
+highlighter: rouge
+title: Do You Need a Stent?
+url: http://www.doineedastent.com
 description: Site to help impower patients who have been suggested to have a stent.
