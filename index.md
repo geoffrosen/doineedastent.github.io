@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Do You Need a Stent?
+published: true
 ---
 
 Inspired by: [This article](https://www.theatlantic.com/health/archive/2017/02/when-evidence-says-no-but-doctors-say-yes/517368/ "When evidence...")
@@ -8,3 +9,8 @@ Inspired by: [This article](https://www.theatlantic.com/health/archive/2017/02/w
 Let me read the guidelines and get back to you
 
 Still a work in progress
+
+<div class="alert">
+  <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+  This is an alert box.
+</div>
