@@ -12,5 +12,6 @@ Still a work in progress
 
 <div class="alert">
   <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
-  This is an alert box.
+  This site is still under construction <br />
+  It is meant to aid conversations between physicians and patients. It is not medical advice.
 </div>
