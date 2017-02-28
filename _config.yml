@@ -4,7 +4,6 @@ url: http://www.doineedastent.com
 description: Site to help empower patients who have been suggested to have a stent
 author:
   twitter: geoffreyrosen
+google_site_verification: UA-92774366-1
 gems:
   - jekyll-seo-tag
-webmaster_verification:
-  google: UA-92774366-1
